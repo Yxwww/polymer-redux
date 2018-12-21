@@ -1,6 +1,3 @@
-import window from 'global/window';
-import console from 'global/console';
-
 // Expose globals
 const {CustomEvent, Polymer} = window;
 
